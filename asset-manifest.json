@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Puzzle15/static/css/main.37a133e9.chunk.css",
+    "main.js": "/Puzzle15/static/js/main.f3798778.chunk.js",
+    "main.js.map": "/Puzzle15/static/js/main.f3798778.chunk.js.map",
+    "runtime~main.js": "/Puzzle15/static/js/runtime~main.5c86082e.js",
+    "runtime~main.js.map": "/Puzzle15/static/js/runtime~main.5c86082e.js.map",
+    "static/js/2.8d89fcb1.chunk.js": "/Puzzle15/static/js/2.8d89fcb1.chunk.js",
+    "static/js/2.8d89fcb1.chunk.js.map": "/Puzzle15/static/js/2.8d89fcb1.chunk.js.map",
+    "index.html": "/Puzzle15/index.html",
+    "precache-manifest.7fba1f7e43a1b8f9ce6d9a548cd60fae.js": "/Puzzle15/precache-manifest.7fba1f7e43a1b8f9ce6d9a548cd60fae.js",
+    "service-worker.js": "/Puzzle15/service-worker.js",
+    "static/css/main.37a133e9.chunk.css.map": "/Puzzle15/static/css/main.37a133e9.chunk.css.map"
+  }
+}
