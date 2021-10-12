@@ -1,6 +1,8 @@
 ## The 15 Puzzle
 **Author:** Daniel Bieniek  
 
+# [PLAY](https://DanielBieniek.github.io/Puzzle15/)
+
 **[Download project](https://github.com/DanielBieniek/Puzzle15/releases)**
 
 **Screenshots**  
